@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "QUantum Interacting Dimer (QUID) dataset"
+title: "Extending quantum-mechanical benchmark accuracy to biological ligand-pocket interactions"
+authors: Mirela Puleva, Leonardo Medrano Sandonas, Balázs Lőrincz, Jorge Charry, David M. Rogers, Péter R. Nagy, Alexandre Tkatchenko 
+version: 1.2.0
+doi: 10.26434/chemrxiv-2025-f6615
+date-released: 17 Jan 2025
